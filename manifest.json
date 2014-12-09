@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "WhitelistDeliciousContentSecurityPolicy",
-  "version": "0.3",
+  "version": "1.0",
   "description": "Adds https://delicious.com to GitHub's Content-Security-Policy Header so its bookmarklet works",
   "homepage_url": "https://github.com/rentzsch/WhitelistDeliciousContentSecurityPolicy",
   "permissions": [
